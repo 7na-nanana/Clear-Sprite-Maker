@@ -1,5 +1,7 @@
+# Clear-Sprite-Maker (c) 2026 Nanana
 import os
 from PIL import Image
+
 
 # 出来上がるファイル名
 OUTPUT_NAME = 'animation_clear_v2.gif'
